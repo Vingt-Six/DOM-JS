@@ -1,0 +1,13 @@
+.titre {
+    color: white;
+    background-color: red;
+}
+
+.t3:hover {
+    font-size: 90%;
+}
+
+.para {
+    background-color: royalblue;
+    color: goldenrod;
+}
